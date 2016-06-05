@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/fontanag/Workspace/PlainpayClient'
+let g:netrw_dirhist_2='/home/fontanag/Workspace/intranetpromotori.creditodiromagna.it/wp-content/plugins/g-ldap-login-password-and-role-manager'
+let g:netrw_dirhist_3='/home/fontanag/Workspace/wp-widget-pageview'
+let g:netrw_dirhist_4='/home/fontanag/Workspace/wp-widget-pageview/pageview'
+let g:netrw_dirhist_5='/home/fontanag/Workspace/wp-widget-pageview'
+let g:netrw_dirhist_6='/home/fontanag/Workspace/wp-widget-pageview/pageview'
